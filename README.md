@@ -42,7 +42,7 @@
 <span>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/>
 </span>
-
+<br>
 🌱 Tools <br>
 <span>
   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
@@ -60,7 +60,7 @@
 
 <h3>Git Status</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykchoi7&layout=donut&show_icons=true&theme=material-palenight&hide_border=false&bg_color=fff&icon_color=58A6FF&text_color=003973&title_color=58A6FF&count_private=false" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykchoi7&layout=donut&show_icons=true&theme=material-palenight&hide_border=false&bg_color=fff&icon_color=58A6FF&text_color=003973&title_color=58A6FF&count_private=false&exclude_repo=kosa_Oracle" width=38% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ykchoi7&show_icons=true&theme=material-palenight&hide_border=false&bg_color=fff&icon_color=58A6FF&text_color=003973&title_color=58A6FF&count_private=true" width=56% />
