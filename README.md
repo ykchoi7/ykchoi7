@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e55d87,70:5fc3e4&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 <h2>👋 Hi, here is YoonKyung Choi!</h2>
-<br>
 
 📫 How to reach me<br>
 <span>
@@ -10,8 +9,8 @@
   </a>
 </span>
 
+<h3>Skills</h3>
 ⚡ Tech<br>
-- Backend <br>
 <span>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/>
 </span>
@@ -31,7 +30,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
 </span>
 <br>
- - Frontend <br>
 <span>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=white"/>
 </span>
@@ -60,6 +58,7 @@
 </span>
 <br>
 
+<h3>Git Status</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykchoi7&layout=donut&show_icons=true&theme=material-palenight&hide_border=false&bg_color=fff&icon_color=58A6FF&text_color=003973&title_color=58A6FF&count_private=false" width=38% />
 </a>    
