@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e55d87,70:5fc3e4&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-👋 Hi, here is YoonKyung Choi!
-<br><br>
+<h2>👋 Hi, here is YoonKyung Choi!</h2>
+<br>
 
-📫 How to reach me ... <br>
+📫 How to reach me<br>
 <span>
   <a href="mailto:7dbsrud7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white"/>
@@ -55,6 +55,7 @@
 <span>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"/>
 </span>
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykchoi7&layout=donut&show_icons=true&theme=material-palenight&hide_border=false&bg_color=fff&icon_color=58A6FF&text_color=003973&title_color=58A6FF&count_private=true" width=38% />
@@ -62,6 +63,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ykchoi7&show_icons=true&theme=material-palenight&hide_border=false&bg_color=fff&icon_color=58A6FF&text_color=003973&title_color=58A6FF&count_private=true" width=56% />
 </a>
+<br><br>
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ykchoi7&theme=react-dark&bg_color=fff&hide_border=false&line=58A6FF&color=58A6FF" width=94%/>
 </a> -->
